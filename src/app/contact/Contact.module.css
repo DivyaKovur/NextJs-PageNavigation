@@ -1,0 +1,35 @@
+/* src/app/Contact.module.css */
+.contactContainer {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .contactTitle {
+    color: #333;
+  }
+  
+  .contactForm {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contactInput {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .contactButton {
+    background-color: #0070f3;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .contactButton:hover {
+    background-color: #005bb5;
+  }
+  

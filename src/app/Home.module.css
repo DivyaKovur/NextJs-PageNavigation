@@ -1,0 +1,36 @@
+/* src/app/Home.module.css */
+.homeContainer {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .welcomeTitle {
+    color: #333;
+    font-size: 2.5rem;
+  }
+  
+  .featuresTitle {
+    color: #555;
+    font-size: 2rem;
+  }
+  
+  .featuresList {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 0;
+  }
+  
+  .getStartedTitle {
+    color: #555;
+    font-size: 2rem;
+  }
+  
+  .link {
+    color: #0070f3;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
